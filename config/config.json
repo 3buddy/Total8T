@@ -1,0 +1,7 @@
+{
+    "secret": "Total8t-secret-key-for-normal-token",
+    "refreshTokenSecret": "Total8t-secret-key-for-normal-refresh-token",
+    "port": 3000,
+    "tokenLife": 14400,
+    "refreshTokenLife": 86400
+}
